@@ -1,0 +1,17 @@
+.inventory-container{
+    height: 95%;
+    width: 100%;
+    background-color: rgba(227, 224, 226, 0.922); 
+    padding: 1px;
+    display: flex;
+    flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+}
+
+.inventory-title{
+    font-size: 80px;
+    font-weight: 700;
+    font-family: "Roboto";
+    color: white;
+}

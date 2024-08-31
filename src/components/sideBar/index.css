@@ -1,0 +1,31 @@
+.side-bar-container{
+    height: 100vh;
+    width: 15%;
+    background-color: white;
+}
+
+.side-bar-ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+.side-bar-button{
+    height: 50px;
+    width: 100%; 
+    border-style: none;
+    background-color: transparent; 
+    color: rgb(169, 164, 164); 
+    text-align: start;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.selected-side-bar{
+    background-color:  rgb(243, 220, 249); 
+    color: rgb(213, 74, 248); 
+    
+}
+
+.side-bar-link{
+    outline: none;
+}

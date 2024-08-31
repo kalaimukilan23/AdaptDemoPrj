@@ -1,0 +1,104 @@
+
+.dashboard-bg-container{
+    background-color: rgba(227, 224, 226, 0.922); 
+    height: 93vh;
+    width: 100%;
+    padding: 2px; 
+    display: flex; 
+    flex-direction: row;
+    align-items: center;
+    
+}
+
+.sales-and-order-card{
+    background-color: white; 
+    height: 80vh;
+    width: 65%;
+    border-style: 1px solid  rgba(227, 224, 226, 0.922) ; 
+    border-radius: 10px; 
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.sales-order-title-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 30px;   
+}
+
+.sales-order-title{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500; 
+    width: 140px;
+    
+} 
+.info-icon{
+    height: 20px;
+    width: 50px;
+}
+
+.sales-order-horizontal-line{
+    height: 1px;
+    background-color: rgba(227, 224, 226, 0.922) ;
+    border-style: none;
+    margin-top: 0px;
+}
+
+.portion-of-sales-card{
+    background-color: white; 
+    height: 80vh;
+    width: 30%;
+    border-style: 1px solid  rgba(227, 224, 226, 0.922) ; 
+    border-radius: 10px; 
+    margin-top: 10px;
+    margin-left: 30px;
+}
+
+.portion-of-sales-title-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-left: 30px;   
+}
+
+.portion-of-sales-title{
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 500; 
+    width: 150px; 
+    
+}
+
+.pie-chart-tooltip-container{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.woo-commerce-tooltip{
+    color: rgb(242, 142, 158); 
+    font-size: 25px; 
+    
+}
+
+.woo-commerce-span{
+    color: rgb(27, 26, 26);
+    font-size: 16px;
+}
+
+.shopify-tooltip{
+    color:rgb(25, 216, 230) ; 
+    font-size: 25px;
+    margin-left: 30px;
+    
+}
+
+.shopify-span{
+    color: rgb(27, 26, 26);
+    font-size: 16px;
+}
+

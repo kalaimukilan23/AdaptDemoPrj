@@ -1,0 +1,31 @@
+.tool-tip-container{
+    background-color:transparent;  
+    
+}
+
+.tool-tip-para{
+    font-size: 16px;
+    margin-bottom: 1px;
+}
+
+.tool-tip-ul{
+    padding-left: 20px;
+    margin-top: 0px;
+}
+
+
+.sales-tool-tip{
+    color: rgb(24, 166, 191);
+    margin-bottom: 3px;
+    
+}
+.orders-tool-tip{
+    color: rgb(247, 117, 10); 
+    margin-bottom: 3px;
+    
+}
+
+.tooltip-span{
+    color: rgb(49, 46, 46); 
+    font-size: 16px;
+}
